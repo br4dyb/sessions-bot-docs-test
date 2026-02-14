@@ -9,6 +9,9 @@ export default defineConfig({
     title: "Sessions Bot - Docs",
     description: "An informational guide for all things Sessions Bot!",
 
+    // FOR TESTING - GitHub Pages:
+    base: "/sessions-bot-docs-test/",
+
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [

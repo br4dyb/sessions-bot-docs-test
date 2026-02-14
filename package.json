@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "devDependencies": {
+    "@types/node": "^25.2.3",
     "vitepress": "^2.0.0-alpha.16"
   },
   "scripts": {
