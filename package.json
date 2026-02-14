@@ -1,0 +1,20 @@
+{
+  "name": "@sessionsbot/docs",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "vitepress": "^2.0.0-alpha.16"
+  },
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "@vueuse/core": "^14.2.1",
+    "pinia": "^3.0.4",
+    "tailwindcss": "^4.1.18"
+  }
+}
